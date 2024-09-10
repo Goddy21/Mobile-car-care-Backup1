@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mobile Mechanics</string>
+
+    <string name="my_map_api_key">AIzaSyA8iZiGMKUIeeyzqLLvVWjL-6rJNrixzKY</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="click_to_login">click_to_login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">logout</string>
+    <string name="i_am_loging_out">I am loging out</string>
+    <string name="log_out">Log out</string>
+    <string name="LOGOUT">LOGOUT</string>
+</resources>
